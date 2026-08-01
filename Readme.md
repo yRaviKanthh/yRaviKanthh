@@ -243,22 +243,6 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
-# 📈 Coding Activity
-
-```text
-AI & Machine Learning     ███████████████████░░░   90%
-
-Backend Development       █████████████████░░░░   85%
-
-Data Science              ████████████████░░░░░   80%
-
-Frontend Development      █████████████░░░░░░░░   70%
-
-Cloud & DevOps            █████████░░░░░░░░░░░░   55%
-```
-
----
-
 # 🌟 Interests
 
 - 🤖 Artificial Intelligence
