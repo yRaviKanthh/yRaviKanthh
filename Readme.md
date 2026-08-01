@@ -32,12 +32,6 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 - Advanced Python
 - Data Analytics
 
-## 👯 Looking to Collaborate On
-
-- Open Source Projects
-- AI & Machine Learning
-- Data Science
-- Full Stack Development
 
 ## ⚡ Fun Fact
 
