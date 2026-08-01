@@ -39,17 +39,6 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 - Data Science
 - Full Stack Development
 
-## 💬 Ask Me About
-
-- Python
-- Machine Learning
-- Data Science
-- FastAPI
-- React.js
-- Node.js
-- SQL
-- MongoDB
-
 ## ⚡ Fun Fact
 
 > I enjoy solving real-world problems using AI and continuously learning new technologies.
