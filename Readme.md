@@ -12,7 +12,7 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 # 💫 About Me
 
-🎓 Computer Science Engineering graduate passionate about building intelligent software using Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
+🎓 Computer Science and Engineering graduate passionate about building intelligent software using Artificial Intelligence, Machine Learning, Data Science, and Full-Stack Development.
 
 🚀 I enjoy developing AI-powered applications using Python, FastAPI, React.js, Node.js, Machine Learning, and Large Language Models (LLMs).
 
@@ -224,12 +224,13 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 <p align="center">
 
 <img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-eight-theta.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
 <img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight&hide_border=true"/>
+src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight"/>
 
 </p>
+
 ---
 
 # 🔥 GitHub Streak
@@ -239,6 +240,7 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
 <img src="https://streak-stats.demolab.com?user=yRaviKanthh&theme=tokyonight&hide_border=true"/>
 
 </p>
+
 ---
 
 # 📈 Contribution Graph
@@ -255,10 +257,9 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=onedark&no-frame=true&row=1&column=7"/>
 
 </p>
-
 
 ---
 
