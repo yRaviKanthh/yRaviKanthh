@@ -222,10 +222,7 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 # 📊 GitHub Statistics
 
 <p align="center">
-
-<img width="500"
-src="https://github-readme-stats-eight-theta.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
