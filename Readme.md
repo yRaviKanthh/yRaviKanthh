@@ -219,16 +219,17 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
-# 📊 GitHub Statistics
+# 📈 GitHub Statistics
 
 <p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight" height="170"/>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight" height="170"/>
 </p>
 
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yRaviKanthh&theme=tokyonight"/>
+</p>
 ---
 
 # 🔥 GitHub Streak
@@ -254,10 +255,9 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 # 🏆 GitHub Trophies
 
 <p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&margin-w=15&margin-h=15"/>
 </p>
+
 
 ---
 
