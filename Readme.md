@@ -368,16 +368,6 @@ Feel free to reach out if you'd like to collaborate!
 
 ---
 
-# 👀 Visitor Counter
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=yRaviKanthh&label=Visitors&color=blue&style=for-the-badge"/>
-
-</p>
-
----
-
 # ⭐ Thanks for Visiting!
 
 <p align="center">
