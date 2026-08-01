@@ -358,26 +358,6 @@ Feel free to reach out if you'd like to collaborate!
 
 ---
 
-# 📈 Profile Summary
-
-```text
-🎓 Computer Science Engineer
-
-💻  Full Stack Developer
-
-🤖 AI & Machine Learning Enthusiast
-
-📊 Data Science Learner
-
-🚀 FastAPI | React | Node.js | Python
-
-🌍 Open Source Contributor
-
-📚 Continuous Learner
-```
-
----
-
 # 📌 Featured Technologies
 
 <p align="center">
