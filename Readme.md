@@ -219,44 +219,6 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-  <img width="550" src="https://github-readme-stats-eight-theta.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=yRaviKanthh&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Contribution Graph
-
-<p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yRaviKanthh&theme=tokyo-night"/>
-
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=onedark&no-frame=true&row=1&column=7"/>
-
-</p>
-
----
-
 # 📚 Currently Exploring
 
 - 🤖 Generative AI
