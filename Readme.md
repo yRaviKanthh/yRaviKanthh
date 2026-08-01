@@ -56,9 +56,9 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
-# 🌐 Connect With Me
+# 📫 Let's Connect
 
-<p align="left">
+<p align="center">
 
 <a href="https://linkedin.com/in/ravi-kanth7">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
