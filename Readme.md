@@ -223,11 +223,9 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 <p align="center">
 
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-<img height="180em"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true"/>
 
 </p>
 
@@ -257,7 +255,7 @@ src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-lan
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&no-frame=true&margin-w=15&margin-h=15"/>
 
 </p>
 
