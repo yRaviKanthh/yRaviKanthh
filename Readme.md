@@ -223,11 +223,8 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 <p align="center">
 
-<img height="180em"
+<img width="500"
 src="https://github-readme-stats-eight-theta.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-
-<img height="180em"
-src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight"/>
 
 </p>
 
