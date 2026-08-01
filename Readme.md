@@ -219,16 +219,16 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight" height="170"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight" height="170"/>
-</p>
+<img height="180em"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yRaviKanthh&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yRaviKanthh&theme=tokyonight"/>
+<img height="180em"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yRaviKanthh&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </p>
 ---
 
@@ -239,14 +239,13 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 <img src="https://streak-stats.demolab.com?user=yRaviKanthh&theme=tokyonight&hide_border=true"/>
 
 </p>
-
 ---
 
 # 📈 Contribution Graph
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=yRaviKanthh&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=yRaviKanthh&theme=tokyo-night"/>
 
 </p>
 
@@ -255,7 +254,9 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&margin-w=15&margin-h=15"/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=yRaviKanthh&theme=tokyonight&no-frame=true"/>
+
 </p>
 
 
