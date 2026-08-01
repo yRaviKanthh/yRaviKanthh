@@ -174,20 +174,6 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 
 ---
 
-## 🌐 Employee Onboarding System
-
-**Tech Stack:** HTML • CSS • JavaScript
-
-✔ Employee Registration
-
-✔ Department Allocation
-
-✔ Role Mapping
-
-✔ Responsive Design
-
----
-
 ## 🤖 Portfolio Chatbot
 
 **Tech Stack:** FastAPI • Python • LLM
