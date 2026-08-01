@@ -23,16 +23,6 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
 - 🌐 Full-Stack Web Applications
 - 🧠 Machine Learning Models
 
-## 🌱 Currently Learning
-
-- Generative AI
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- Power BI
-- Advanced Python
-- Data Analytics
-
-
 ## ⚡ Fun Fact
 
 > I enjoy solving real-world problems using AI and continuously learning new technologies.
@@ -266,16 +256,6 @@ I enjoy collaborating on projects involving:
 - RAG Systems
 
 Feel free to reach out if you'd like to collaborate!
-
----
-
-# 📌 Featured Technologies
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,java,javascript,typescript,react,nextjs,nodejs,express,fastapi,django,flask,mongodb,mysql,postgres,firebase,git,github,docker,linux,vscode,postman,tensorflow,pytorch&perline=8" />
-
-</p>
 
 ---
 
