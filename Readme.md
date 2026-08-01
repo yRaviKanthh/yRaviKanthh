@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ravi Kanth</h1>
+<h1 align="center">Hi 👋, I'm RaviKanth</h1>
 
 <h3 align="center">
 Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
