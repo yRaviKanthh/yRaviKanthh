@@ -14,11 +14,9 @@ Computer Science Engineer | AI & Data Science Enthusiast | Full-Stack Developer
   <img src="https://img.shields.io/badge/Test-Badge-blue" alt="Test Badge">
 </p>
 
-
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yRaviKanthh&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views">
+  <img src="https://img.shields.io/badge/Profile%20Views-Available-blue?style=flat" alt="Profile Views">
 </p>
-
 
 ---
 
